@@ -1,0 +1,53 @@
+object Form4: TForm4
+  Left = 1129
+  Height = 238
+  Top = 236
+  Width = 173
+  Caption = 'Form4'
+  ClientHeight = 238
+  ClientWidth = 173
+  OnCreate = FormCreate
+  LCLVersion = '1.6.4.0'
+  object Extract: TButton
+    Left = 48
+    Height = 25
+    Top = 16
+    Width = 75
+    Caption = 'Extract'
+    OnClick = ExtractClick
+    TabOrder = 0
+  end
+  object Search: TButton
+    Left = 48
+    Height = 25
+    Top = 56
+    Width = 75
+    Caption = 'Search'
+    OnClick = SearchClick
+    TabOrder = 1
+  end
+  object Replace: TButton
+    Left = 48
+    Height = 25
+    Top = 96
+    Width = 75
+    Caption = 'Replace'
+    TabOrder = 2
+  end
+  object SpellCount: TButton
+    Left = 48
+    Height = 25
+    Top = 136
+    Width = 75
+    Caption = 'SpellCount'
+    TabOrder = 3
+  end
+  object SpellCheck: TButton
+    Left = 48
+    Height = 25
+    Top = 176
+    Width = 75
+    Caption = 'SpellCheck'
+    TabOrder = 4
+  end
+end

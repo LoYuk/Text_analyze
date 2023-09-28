@@ -1,0 +1,94 @@
+object Form3: TForm3
+  Left = 209
+  Height = 556
+  Top = 305
+  Width = 793
+  Caption = 'Form3'
+  ClientHeight = 556
+  ClientWidth = 793
+  DockSite = True
+  OnCreate = FormCreate
+  OnShow = FormShow
+  LCLVersion = '1.8.4.0'
+  object Label2: TLabel
+    Left = 88
+    Height = 12
+    Top = 440
+    Width = 85
+    Caption = 'Number of words:'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 65
+    Height = 12
+    Top = 464
+    Width = 108
+    Caption = 'Number of paragraphs:'
+    ParentColor = False
+  end
+  object Label4: TLabel
+    Left = 38
+    Height = 12
+    Top = 488
+    Width = 135
+    Caption = 'Number of words (repeated):'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 112
+    Height = 12
+    Top = 512
+    Width = 32
+    Caption = 'Label5'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 696
+    Height = 25
+    Top = 376
+    Width = 75
+    Caption = 'Next'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 24
+    Height = 25
+    Top = 376
+    Width = 75
+    Caption = 'Prev'
+    TabOrder = 1
+  end
+  object Label1: TLabel
+    Left = 344
+    Height = 35
+    Top = 24
+    Width = 80
+    Caption = 'Menu'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -35
+    Font.Name = '@新細明體'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object ListBox2: TListBox
+    Left = 144
+    Height = 320
+    Top = 104
+    Width = 536
+    ItemHeight = 0
+    TabOrder = 2
+  end
+  object ListView1: TListView
+    Left = 8
+    Height = 192
+    Top = 104
+    Width = 120
+    AutoSort = False
+    Columns = <>
+    TabOrder = 3
+  end
+end

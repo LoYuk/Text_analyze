@@ -1,0 +1,36 @@
+object Form5: TForm5
+  Left = 339
+  Height = 201
+  Top = 383
+  Width = 163
+  Caption = 'Form5'
+  ClientHeight = 0
+  ClientWidth = 0
+  LCLVersion = '2.0.4.0'
+  object Label1: TLabel
+    Left = -64
+    Height = 45
+    Top = 8
+    Width = 294
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Searching'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -29
+    Font.Name = 'Latha'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object ListBox1: TListBox
+    Left = 0
+    Height = 200
+    Top = 56
+    Width = 164
+    Align = alCustom
+    ItemHeight = 0
+    OnClick = ListBox1Click
+    TabOrder = 0
+  end
+end

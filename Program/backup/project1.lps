@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="21">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Project1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="41" Y="22"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="filedrop.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FileDrop"/>
+        <TopLine Value="49"/>
+        <CursorPos Y="74"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="Unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="26" Y="46"/>
+        <UsageCount Value="77"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="mainmenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainMenu"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="38"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="wordsearching.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form5"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="WordSearching"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="26"/>
+        <CursorPos X="11" Y="42"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="functionbutton.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form4"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FunctionButton"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="103"/>
+        <CursorPos X="26" Y="112"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unit4.pas"/>
+        <ComponentName Value="Form4"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit4"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="21" Y="73"/>
+        <UsageCount Value="45"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unit5.pas"/>
+        <ComponentName Value="Form5"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit5"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <CursorPos X="11" Y="44"/>
+        <UsageCount Value="29"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3484"/>
+        <CursorPos Y="3501"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\Downloads\word extractor.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="5" Y="112"/>
+        <UsageCount Value="17"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\Lazarus\lcl\lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="897"/>
+        <CursorPos Y="916"/>
+        <UsageCount Value="7"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\Lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <CursorPos Y="140"/>
+        <UsageCount Value="14"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="446"/>
+        <CursorPos Y="456"/>
+        <UsageCount Value="8"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\Lazarus\components\lazutils\textstrings.pas"/>
+        <UnitName Value="TextStrings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="228"/>
+        <CursorPos Y="254"/>
+        <UsageCount Value="8"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\Lazarus\lcl\include\customlistbox.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="602"/>
+        <CursorPos Y="621"/>
+        <UsageCount Value="8"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\Lazarus\components\lazutils\extendedstrings.pas"/>
+        <UnitName Value="ExtendedStrings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="167"/>
+        <CursorPos Y="194"/>
+        <UsageCount Value="8"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\..\Lazarus\lcl\include\customedit.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="535"/>
+        <CursorPos Y="556"/>
+        <UsageCount Value="8"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\..\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4985"/>
+        <CursorPos Y="5005"/>
+        <UsageCount Value="8"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\..\Lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8253"/>
+        <CursorPos Y="8275"/>
+        <UsageCount Value="8"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\..\Downloads\words_dictionary\ICT SBA\Unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="95" Y="86"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\Lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos Y="2317"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+    </Units>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="183" Column="11" TopLine="28"/>
+      </Position1>
+      <Position2>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="160" Column="28" TopLine="146"/>
+      </Position2>
+      <Position3>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="156" Column="3" TopLine="150"/>
+      </Position3>
+      <Position4>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="161" Column="3" TopLine="150"/>
+      </Position4>
+      <Position5>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="162" Column="3" TopLine="151"/>
+      </Position5>
+      <Position6>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="166" Column="88" TopLine="158"/>
+      </Position6>
+      <Position7>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="27" Column="80" TopLine="11"/>
+      </Position7>
+      <Position8>
+        <Filename Value="wordsearching.pas"/>
+        <Caret Line="30" Column="25" TopLine="17"/>
+      </Position8>
+      <Position9>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="71" Column="44" TopLine="42"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="40" Column="6" TopLine="21"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="39" Column="11" TopLine="10"/>
+      </Position11>
+      <Position12>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="70" Column="32" TopLine="42"/>
+      </Position12>
+      <Position13>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="48" Column="24" TopLine="39"/>
+      </Position13>
+      <Position14>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="51" Column="19" TopLine="41"/>
+      </Position14>
+      <Position15>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="27" Column="80" TopLine="17"/>
+      </Position15>
+      <Position16>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="69" Column="18" TopLine="42"/>
+      </Position16>
+      <Position17>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="73" Column="16" TopLine="45"/>
+      </Position17>
+      <Position18>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="32" Column="16" TopLine="14"/>
+      </Position18>
+      <Position19>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="49" Column="8" TopLine="46"/>
+      </Position19>
+      <Position20>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="53" Column="88" TopLine="46"/>
+      </Position20>
+      <Position21>
+        <Filename Value="filedrop.pas"/>
+        <Caret Line="74" Column="4" TopLine="49"/>
+      </Position21>
+      <Position22>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="38" TopLine="10"/>
+      </Position22>
+      <Position23>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="10" Column="57"/>
+      </Position23>
+      <Position24>
+        <Filename Value="project1.lpr"/>
+        <Caret Line="19" Column="26"/>
+      </Position24>
+      <Position25>
+        <Filename Value="mainmenu.pas"/>
+        <Caret Line="38" TopLine="7"/>
+      </Position25>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="Listbox1"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

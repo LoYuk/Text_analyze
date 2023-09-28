@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Users\User\Desktop\Lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1325662982"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiL:\ICT SBA\Program\lib\x86_64-win64&quot; -FuC:\Users\User\Desktop\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Users\User\Desktop\Lazarus\lcl\units\x86_64-win64 -FuC:\Users\User\Desktop\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Users\User\Desktop\Lazarus\packager\units\x86_64-win64 &quot;-FuL:\ICT SBA\Program\&quot; &quot;-FUL:\ICT SBA\Program\lib\x86_64-win64\&quot; &quot;-FEL:\ICT SBA\Program\&quot; &quot;-oL:\ICT SBA\Program\ICT_SBA.exe&quot; -dLCL -dLCLwin32 ICT_SBA.lpr"/>
+</CONFIG>

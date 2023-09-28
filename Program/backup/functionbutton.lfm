@@ -1,0 +1,98 @@
+object Form4: TForm4
+  Left = 387
+  Height = 232
+  Top = 309
+  Width = 264
+  Align = alClient
+  Caption = 'Form4'
+  ClientHeight = 0
+  ClientWidth = 0
+  OnCreate = FormCreate
+  LCLVersion = '2.0.4.0'
+  object Extract: TButton
+    AnchorSideTop.Side = asrBottom
+    Left = 32
+    Height = 26
+    Top = 15
+    Width = 88
+    BorderSpacing.Top = 20
+    BorderSpacing.Bottom = 20
+    Caption = 'Extract'
+    OnClick = ExtractClick
+    TabOrder = 0
+  end
+  object Search: TButton
+    Left = 32
+    Height = 26
+    Top = 56
+    Width = 88
+    Caption = 'Search'
+    OnClick = SearchClick
+    TabOrder = 1
+  end
+  object Replace: TButton
+    Left = 32
+    Height = 26
+    Top = 95
+    Width = 88
+    Caption = 'Replace'
+    OnClick = ReplaceClick
+    TabOrder = 2
+  end
+  object SpellCount: TButton
+    Left = 32
+    Height = 26
+    Top = 136
+    Width = 88
+    Caption = 'SpellCount'
+    DoubleBuffered = False
+    OnClick = SpellCountClick
+    ParentDoubleBuffered = False
+    TabOrder = 3
+  end
+  object SpellCheck: TButton
+    Left = 32
+    Height = 26
+    Top = 177
+    Width = 88
+    Caption = 'SpellCheck'
+    OnClick = SpellCheckClick
+    TabOrder = 4
+  end
+  object Label2: TLabel
+    Left = 176
+    Height = 25
+    Top = 58
+    Width = 8
+    AutoSize = False
+    Caption = '.'
+    ParentColor = False
+  end
+  object Alarm: TButton
+    Left = 152
+    Height = 26
+    Top = 15
+    Width = 88
+    Caption = 'Alarm'
+    Enabled = False
+    OnMouseDown = AlarmMouseDown
+    TabOrder = 5
+  end
+  object OutPut: TButton
+    Left = 152
+    Height = 25
+    Top = 56
+    Width = 88
+    Caption = 'OutPut'
+    OnClick = OutPutClick
+    TabOrder = 6
+  end
+  object PopupMenu2: TPopupMenu
+    left = 248
+    top = 8
+  end
+  object SelectDirectoryDialog1: TSelectDirectoryDialog
+    left = 184
+    top = 128
+  end
+end

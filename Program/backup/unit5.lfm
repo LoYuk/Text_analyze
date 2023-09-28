@@ -1,0 +1,44 @@
+object Form5: TForm5
+  Left = 78
+  Height = 286
+  Top = 432
+  Width = 518
+  Caption = 'Form5'
+  ClientHeight = 286
+  ClientWidth = 518
+  LCLVersion = '1.8.4.0'
+  object Searching: TButton
+    Left = 360
+    Height = 25
+    Top = 206
+    Width = 75
+    Caption = 'Searching'
+    OnClick = SearchingClick
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 72
+    Height = 175
+    Top = 64
+    Width = 232
+    Lines.Strings = (
+      'Memo1'
+    )
+    OnChange = Memo1Change
+    TabOrder = 1
+  end
+  object Label1: TLabel
+    Left = 128
+    Height = 45
+    Top = 8
+    Width = 120
+    Caption = 'Searching'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -29
+    Font.Name = 'Latha'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+end

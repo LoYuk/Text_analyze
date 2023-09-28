@@ -1,0 +1,35 @@
+object Form6: TForm6
+  Left = 1004
+  Height = 111
+  Top = 497
+  Width = 246
+  Caption = 'Form6'
+  ClientHeight = 111
+  ClientWidth = 246
+  OnCreate = FormCreate
+  LCLVersion = '2.0.2.0'
+  object ProgressBar1: TProgressBar
+    Left = 24
+    Height = 20
+    Top = 64
+    Width = 200
+    Smooth = True
+    Step = 1
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Left = 88
+    Height = 28
+    Top = 16
+    Width = 54
+    Caption = 'Label1'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Latha'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+end

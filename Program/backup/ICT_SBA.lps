@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="55">
+      <Unit0>
+        <Filename Value="ICT_SBA.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="filedrop.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FileDrop"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="109" Y="52"/>
+        <UsageCount Value="201"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="Unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="26" Y="46"/>
+        <UsageCount Value="201"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="mainmenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainMenu"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="226"/>
+        <CursorPos Y="363"/>
+        <FoldState Value=" T3mM0J233 pjD]B46 piejF0FU"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="workingpanel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form5"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="WorkingPanel"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="11"/>
+        <CursorPos X="53" Y="30"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="functionbutton.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form4"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FunctionButton"/>
+        <TopLine Value="607"/>
+        <CursorPos Y="648"/>
+        <FoldState Value=" T3iQ0Q2 pjNkC0+1]94kS0b3]9LkN0m0143"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="progressbar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form6"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ProgressBar"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="32" Y="41"/>
+        <UsageCount Value="200"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unit4.pas"/>
+        <ComponentName Value="Form4"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit4"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="21" Y="73"/>
+        <UsageCount Value="15"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="F:\Downloads\word extractor.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="5" Y="112"/>
+        <UsageCount Value="7"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="F:\Lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="138"/>
+        <CursorPos Y="153"/>
+        <UsageCount Value="6"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="F:\Downloads\words_dictionary\ICT SBA\Unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="95" Y="86"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="F:\Lazarus\components\lazutils\fileutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="858"/>
+        <CursorPos Y="857"/>
+        <UsageCount Value="2"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="F:\Lazarus\components\lazutils\masks.pas"/>
+        <UnitName Value="Masks"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="282"/>
+        <CursorPos Y="300"/>
+        <UsageCount Value="1"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="F:\Lazarus\lcl\include\winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="831"/>
+        <CursorPos Y="846"/>
+        <UsageCount Value="1"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="F:\Lazarus\lcl\interfaces\win32\win32winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2965"/>
+        <CursorPos Y="2980"/>
+        <UsageCount Value="1"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="F:\Lazarus\lcl\include\menu.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="210"/>
+        <CursorPos Y="223"/>
+        <UsageCount Value="2"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="mainmenu.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="functionbutton.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="13" Y="63"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="filedrop.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="F:\Lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5406"/>
+        <CursorPos Y="5420"/>
+        <UsageCount Value="3"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="F:\Lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos Y="123"/>
+        <UsageCount Value="3"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="F:\Lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1612"/>
+        <CursorPos Y="1627"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="F:\Lazarus\components\lazutils\laztracer.pas"/>
+        <UnitName Value="LazTracer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <CursorPos Y="50"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="F:\Lazarus\lcl\customtimer.pas"/>
+        <UnitName Value="CustomTimer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="130"/>
+        <CursorPos Y="151"/>
+        <UsageCount Value="1"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="F:\Lazarus\lcl\include\menuitem.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="530"/>
+        <CursorPos Y="546"/>
+        <UsageCount Value="3"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2224"/>
+        <CursorPos Y="2244"/>
+        <UsageCount Value="4"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\Lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5400"/>
+        <CursorPos Y="5420"/>
+        <UsageCount Value="4"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="D:\Lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="90"/>
+        <CursorPos Y="123"/>
+        <UsageCount Value="4"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2650"/>
+        <CursorPos Y="2681"/>
+        <UsageCount Value="4"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="D:\Lazarus\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2390"/>
+        <CursorPos Y="2403"/>
+        <UsageCount Value="7"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="D:\Lazarus\lcl\include\customlistbox.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="183"/>
+        <CursorPos Y="203"/>
+        <UsageCount Value="3"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="workingpanel.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="148"/>
+        <CursorPos Y="153"/>
+        <UsageCount Value="7"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="D:\Lazarus\lcl\include\tabsheet.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos Y="61"/>
+        <UsageCount Value="2"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="D:\Lazarus\lcl\include\customedit.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="508"/>
+        <CursorPos Y="529"/>
+        <UsageCount Value="2"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="ICT_SBA.lpi"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="progressbar.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="project1.lpr"/>
+        <UnitName Value="Project1"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="unit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="Unit2.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="D:\Lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="461"/>
+        <CursorPos Y="480"/>
+        <UsageCount Value="3"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="D:\Lazarus\components\lazutils\laztracer.pas"/>
+        <UnitName Value="LazTracer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos Y="50"/>
+        <UsageCount Value="4"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32wsstdctrls.pp"/>
+        <UnitName Value="Win32WSStdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="712"/>
+        <CursorPos Y="732"/>
+        <UsageCount Value="4"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="D:\Lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="403"/>
+        <CursorPos Y="423"/>
+        <UsageCount Value="4"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="D:\Lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1397"/>
+        <CursorPos Y="1418"/>
+        <UsageCount Value="4"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="D:\Lazarus\lcl\include\messagedialogs.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="207"/>
+        <CursorPos Y="227"/>
+        <UsageCount Value="6"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\components\lazutils\laztracer.pas"/>
+        <UnitName Value="LazTracer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos Y="50"/>
+        <UsageCount Value="6"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\components\lazutils\lazutf8classes.pas"/>
+        <UnitName Value="LazUTF8Classes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="134"/>
+        <CursorPos Y="151"/>
+        <UsageCount Value="7"/>
+      </Unit48>
+      <Unit49>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="121"/>
+        <CursorPos Y="153"/>
+        <UsageCount Value="11"/>
+      </Unit49>
+      <Unit50>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3232"/>
+        <CursorPos Y="3258"/>
+        <UsageCount Value="9"/>
+      </Unit50>
+      <Unit51>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="2223"/>
+        <CursorPos Y="2244"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit51>
+      <Unit52>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5399"/>
+        <CursorPos Y="5420"/>
+        <UsageCount Value="10"/>
+      </Unit52>
+      <Unit53>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="87"/>
+        <CursorPos Y="123"/>
+        <UsageCount Value="10"/>
+      </Unit53>
+      <Unit54>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="2611"/>
+        <CursorPos Y="2639"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit54>
+    </Units>
+    <JumpHistory Count="26" HistoryIndex="25">
+      <Position1>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="495" Column="36" TopLine="469"/>
+      </Position1>
+      <Position2>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="497" Column="72" TopLine="481"/>
+      </Position2>
+      <Position3>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="594" Column="15" TopLine="520"/>
+      </Position3>
+      <Position4>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="604" TopLine="584"/>
+      </Position4>
+      <Position5>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="613" TopLine="584"/>
+      </Position5>
+      <Position6>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="614" TopLine="584"/>
+      </Position6>
+      <Position7>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="615" TopLine="584"/>
+      </Position7>
+      <Position8>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="616" TopLine="584"/>
+      </Position8>
+      <Position9>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="623" TopLine="588"/>
+      </Position9>
+      <Position10>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="628" TopLine="593"/>
+      </Position10>
+      <Position11>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="633" TopLine="598"/>
+      </Position11>
+      <Position12>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="634" TopLine="599"/>
+      </Position12>
+      <Position13>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="635" TopLine="600"/>
+      </Position13>
+      <Position14>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="636" TopLine="601"/>
+      </Position14>
+      <Position15>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="637" TopLine="602"/>
+      </Position15>
+      <Position16>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="575" TopLine="162"/>
+      </Position16>
+      <Position17>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="648" TopLine="615"/>
+      </Position17>
+      <Position18>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\include\control.inc"/>
+        <Caret Line="4458" TopLine="4436"/>
+      </Position18>
+      <Position19>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\include\control.inc"/>
+        <Caret Line="2285" TopLine="2263"/>
+      </Position19>
+      <Position20>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\include\control.inc"/>
+        <Caret Line="2464" TopLine="2442"/>
+      </Position20>
+      <Position21>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\include\control.inc"/>
+        <Caret Line="2244" TopLine="2223"/>
+      </Position21>
+      <Position22>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <Caret Line="2518" TopLine="2497"/>
+      </Position22>
+      <Position23>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <Caret Line="2560" TopLine="2539"/>
+      </Position23>
+      <Position24>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <Caret Line="2573" TopLine="2539"/>
+      </Position24>
+      <Position25>
+        <Filename Value="functionbutton.pas"/>
+        <Caret Line="648" TopLine="607"/>
+      </Position25>
+      <Position26>
+        <Filename Value="C:\Users\User\Desktop\Lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <Caret Line="2638" TopLine="2611"/>
+      </Position26>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="functionbutton.pas"/>
+        <Line Value="604"/>
+      </Item1>
+    </BreakPoints>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="Cnt"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

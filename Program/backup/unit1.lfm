@@ -1,0 +1,8 @@
+object Form6: TForm6
+  Left = 345
+  Height = 240
+  Top = 614
+  Width = 320
+  Caption = 'Form6'
+  LCLVersion = '2.0.2.0'
+end

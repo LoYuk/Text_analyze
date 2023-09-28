@@ -1,0 +1,98 @@
+object Form3: TForm3
+  Left = 32
+  Height = 750
+  Top = 106
+  Width = 793
+  Caption = 'Form3'
+  ClientHeight = 750
+  ClientWidth = 793
+  DockSite = True
+  OnCreate = FormCreate
+  LCLVersion = '1.6.4.0'
+  object Memo1: TMemo
+    Left = 128
+    Height = 322
+    Top = 80
+    Width = 520
+    Lines.Strings = (
+      'Memo1'
+    )
+    ScrollBars = ssVertical
+    TabOrder = 0
+  end
+  object Label2: TLabel
+    Left = 88
+    Height = 12
+    Top = 440
+    Width = 85
+    Caption = 'Number of words:'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 65
+    Height = 12
+    Top = 464
+    Width = 108
+    Caption = 'Number of paragraphs:'
+    ParentColor = False
+  end
+  object Label4: TLabel
+    Left = 38
+    Height = 12
+    Top = 488
+    Width = 135
+    Caption = 'Number of words (repeated):'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 112
+    Height = 12
+    Top = 512
+    Width = 32
+    Caption = 'Label5'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 680
+    Height = 25
+    Top = 376
+    Width = 75
+    Caption = 'Next'
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 24
+    Height = 25
+    Top = 376
+    Width = 75
+    Caption = 'Prev'
+    TabOrder = 2
+  end
+  object Memo2: TMemo
+    Left = 16
+    Height = 90
+    Top = 80
+    Width = 96
+    Lines.Strings = (
+      'Memo2'
+    )
+    ReadOnly = True
+    ScrollBars = ssVertical
+    TabOrder = 3
+  end
+  object Label1: TLabel
+    Left = 344
+    Height = 35
+    Top = 24
+    Width = 80
+    Caption = 'Menu'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -35
+    Font.Name = '@新細明體'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+end

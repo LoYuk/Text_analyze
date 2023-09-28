@@ -1,0 +1,81 @@
+unit Unit4;
+
+{$mode objfpc}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, StdCtrls,
+  Menus,Unit2;
+
+type
+
+  { TForm4 }
+
+  TForm4 = class(TForm)
+    Extract: TButton;
+    Search: TButton;
+    Replace: TButton;
+    SpellCount: TButton;
+    SpellCheck: TButton;
+    procedure ExtractClick(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
+    procedure SearchClick(Sender: TObject);
+  private
+    { private declarations }
+  public
+    { public declarations }
+  end;
+
+var
+  Form4: TForm4;
+
+implementation
+
+{$R *.lfm}
+
+{ TForm4 }
+
+
+procedure TForm4.FormCreate(Sender: TObject);
+begin
+
+end;
+
+
+procedure WordExtract(foldername:string);
+var infile, outfile : text;
+    i, j, n : integer;
+    s, t, w,x : string;
+    outarr : array[1..10000] of string[100];
+    found : boolean;
+
+  F: TSearchRec;
+begin
+
+end;
+
+procedure TForm4.ExtractClick(Sender: TObject);
+var
+  i:integer;
+begin
+  If Form2.Listbox1.Selected[i] = True then
+    begin
+      Form2.Edit1.text := Form2.Listbox1.GetSelectedText;
+      Form2.Edit1.Visible := True;
+    end
+  else
+    Form2.Listbox1.SelectAll;
+
+//  WordExtract(Form1.Listbox.Item[0])
+end;
+
+procedure TForm4.SearchClick(Sender: TObject);
+var
+  Word:string;
+begin
+  Word:= InputBox('WordSearch','Enter Here','');
+end;
+
+end.
+

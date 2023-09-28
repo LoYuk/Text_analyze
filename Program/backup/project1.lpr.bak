@@ -1,0 +1,46 @@
+program Project1;
+var
+  txt:Text;
+  temp:array of string;
+  i:integer = 1;
+procedure QuickSort(Top,Bottom:integer);
+var
+  i,j:integer;
+  k,temp2 : string;
+begin
+  i := Top;
+  j := Bottom;
+  k := Temp[(Top + Bottom) div 2];
+    repeat
+    While k > Temp[i] do
+      inc(i);
+    While k < Temp[j] do
+      dec(j);
+    if i <= j then
+    begin
+      Temp2 := Temp[i];
+      Temp[i] := Temp[j];
+      Temp[j] := Temp2;
+      dec(j);
+      inc(i);
+    end;
+  until i > j;
+  if Top < j then
+    Quicksort(Top,j);
+  if i < Bottom then
+    QuickSort(i,Bottom);
+end;
+
+begin
+  assign(txt,'C:\Users\User\Desktop\ICT SBA\WordBank.txt');
+  reset(txt);
+  While not eof(txt) do
+    begin
+       readln(txt,temp[i]);
+       inc(i);
+    end;
+  SetLength(Temp,i);
+  QuickSort()
+  for
+end.
+

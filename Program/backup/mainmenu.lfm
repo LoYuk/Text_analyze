@@ -1,0 +1,202 @@
+object Form3: TForm3
+  Left = 33
+  Height = 587
+  Top = 277
+  Width = 726
+  Caption = 'Form3'
+  ClientHeight = 587
+  ClientWidth = 726
+  DockSite = True
+  OnClick = FormClick
+  OnCreate = FormCreate
+  OnDropFiles = FormDropFiles
+  OnKeyDown = FormKeyDown
+  LCLVersion = '2.0.4.0'
+  object Label2: TLabel
+    Left = 16
+    Height = 12
+    Top = 456
+    Width = 141
+    Caption = 'Number of alphabet character:'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 49
+    Height = 12
+    Top = 480
+    Width = 108
+    Caption = 'Number of paragraphs:'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 45
+    Height = 12
+    Top = 504
+    Width = 112
+    Caption = 'Number of punctuation:'
+    ParentColor = False
+  end
+  object Label1: TLabel
+    Left = 256
+    Height = 35
+    Top = 24
+    Width = 293
+    Alignment = taCenter
+    Caption = 'Text Analyzer Menu'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -35
+    Font.Name = '@新細明體'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object ListBox1: TListBox
+    Left = 16
+    Height = 319
+    Top = 112
+    Width = 100
+    ItemHeight = 0
+    OnClick = ListBox1Click
+    OnDblClick = ListBox1DblClick
+    OnMouseWheelDown = ListBox1MouseWheelDown
+    OnMouseWheelUp = ListBox1MouseWheelUp
+    TabOrder = 0
+  end
+  object ListBox2: TListBox
+    Left = 160
+    Height = 320
+    Top = 111
+    Width = 540
+    ItemHeight = 0
+    OnDblClick = ListBox2DblClick
+    OnMouseDown = ListBox2MouseDown
+    OnMouseWheelDown = ListBox2MouseWheelDown
+    OnMouseWheelUp = ListBox2MouseWheelUp
+    TabOrder = 1
+  end
+  object Label4: TLabel
+    Left = 543
+    Height = 12
+    Top = 539
+    Width = 160
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Label4'
+    ParentColor = False
+    OnDblClick = Label4DblClick
+  end
+  object Label6: TLabel
+    Left = 552
+    Height = 12
+    Top = 539
+    Width = 160
+    AutoSize = False
+    Caption = 'Label6'
+    ParentColor = False
+    OnDblClick = Label6DblClick
+  end
+  object Label7: TLabel
+    Left = 175
+    Height = 12
+    Top = 456
+    Width = 32
+    Caption = 'Label7'
+    ParentColor = False
+  end
+  object Label8: TLabel
+    Left = 175
+    Height = 12
+    Top = 480
+    Width = 32
+    Caption = 'Label8'
+    ParentColor = False
+  end
+  object Label9: TLabel
+    Left = 175
+    Height = 12
+    Top = 504
+    Width = 32
+    Caption = 'Label9'
+    ParentColor = False
+  end
+  object Label10: TLabel
+    Left = 73
+    Height = 12
+    Top = 528
+    Width = 84
+    Caption = 'Number of Space:'
+    ParentColor = False
+  end
+  object Label11: TLabel
+    Left = 175
+    Height = 12
+    Top = 529
+    Width = 38
+    Caption = 'Label11'
+    ParentColor = False
+  end
+  object Label12: TLabel
+    Left = -6
+    Height = 1
+    Top = 59
+    Width = 1
+    ParentColor = False
+  end
+  object Label13: TLabel
+    Left = 98
+    Height = 12
+    Top = 550
+    Width = 59
+    Caption = 'WordCount:'
+    ParentColor = False
+  end
+  object Label14: TLabel
+    Left = 175
+    Height = 12
+    Top = 549
+    Width = 38
+    Caption = 'Label14'
+    ParentColor = False
+  end
+  object Label15: TLabel
+    Left = 511
+    Height = 12
+    Top = 80
+    Width = 38
+    Caption = 'Label15'
+    ParentColor = False
+  end
+  object ListBox3: TListBox
+    Left = 744
+    Height = 319
+    Top = 111
+    Width = 100
+    ItemHeight = 0
+    TabOrder = 2
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    left = 511
+    top = 531
+  end
+  object Timer2: TTimer
+    OnTimer = Timer2Timer
+    left = 511
+    top = 531
+  end
+  object Timer3: TTimer
+    OnTimer = Timer3Timer
+    left = 448
+    top = 72
+  end
+  object SelectDirectoryDialog1: TSelectDirectoryDialog
+    left = 56
+    top = 40
+  end
+  object PopupMenu1: TPopupMenu
+    left = 128
+    top = 240
+  end
+end

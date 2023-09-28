@@ -1,0 +1,72 @@
+object Form1: TForm1
+  Left = 192
+  Height = 508
+  Top = 371
+  Width = 780
+  AllowDropFiles = True
+  Caption = 'Form1'
+  ClientHeight = 0
+  ClientWidth = 0
+  OnCreate = FormCreate
+  OnDropFiles = FormDropFiles
+  LCLVersion = '2.0.2.0'
+  object Label1: TLabel
+    Left = 168
+    Height = 72
+    Top = 48
+    Width = 360
+    Align = alCustom
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Text Analyzer'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -32
+    Font.Name = 'Latha'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 152
+    Height = 23
+    Top = 152
+    Width = 356
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'Label2'
+    ParentColor = False
+  end
+  object ListBox1: TListBox
+    Left = 136
+    Height = 48
+    Top = 192
+    Width = 408
+    ItemHeight = 0
+    OnDblClick = ListBox1DblClick
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 136
+    Height = 282
+    Top = 192
+    Width = 408
+    Lines.Strings = (
+      'Memo1'
+    )
+    OnDblClick = Memo1DblClick
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 592
+    Height = 25
+    Top = 200
+    Width = 75
+    Caption = 'Button1'
+    TabOrder = 2
+  end
+  object SelectDirectoryDialog1: TSelectDirectoryDialog
+    left = 616
+    top = 112
+  end
+end
