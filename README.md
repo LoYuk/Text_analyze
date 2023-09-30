@@ -1,4 +1,4 @@
-# Text_analyze
+# Text_analyzer
 
 this is a text analyzer made by object pascal, which include a lot of functions (Extract Search Replace SpellCount SpellCheck Alarm) and export it.
 
